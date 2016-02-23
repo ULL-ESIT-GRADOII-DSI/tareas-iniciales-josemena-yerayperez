@@ -12,18 +12,19 @@ Instalación y/o familiarización con las herramientas principales que usaremos 
 * Cloud9
 * Markdown
 
+
+[Página de la asignaura](https://campusvirtual.ull.es/1516/course/view.php?id=144)
+
+[Repositorio](https://github.com/alu0100768893/tareas-iniciales-josemena-yerayperez) donde se ha desarrollado la práctica.
+
 #####Enlaces de José Alberto:
 
 + [Página personal](http://alu0100768893.github.io/)
-
-+ [Página de la asignaura](https://campusvirtual.ull.es/1516/course/view.php?id=144)
 
 + [Github](https://github.com/alu0100768893/)
 
 #####Enlaces de Yeray:
 
 + [Página personal](http://alu0100783612.github.io/)
-
-+ [Página de la asignaura](https://campusvirtual.ull.es/1516/course/view.php?id=144)
 
 + [Github](https://github.com/alu0100783612/)
