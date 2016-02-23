@@ -29,8 +29,6 @@ Vamos a aprender lo mas básico como hacer nuestro primer ejercicio en nodeJS (H
 
 > console.log("Hola Mundo");
 
-![](img/holamundo.png "Icono de Atom")
-
 Guardamos el fichero como holamundo.js
 
 3. Ejecutamos nuestro programa
