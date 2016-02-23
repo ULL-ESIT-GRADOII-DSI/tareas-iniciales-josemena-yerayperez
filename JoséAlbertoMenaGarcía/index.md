@@ -1,6 +1,5 @@
 #**_Iniciándome en markdown_**#
 
-
 ###Instalación de node.js
 
 _Node.js se ha instalado con el comando:_
@@ -30,3 +29,11 @@ _Se han utilizado los siguientes comandos:_
 <img src="imagenes/ppaatom.png" alt="sudo add-apt-repository ppa:webupd8team/atom">
 
 <img src="imagenes/atom.png" alt="sudo apt-get install atom">
+
+---
+
+[Página personal](http://alu0100768893.github.io/)
+
+[Página de la asignaura](https://campusvirtual.ull.es/1516/course/view.php?id=144)
+
+[Github](https://github.com/alu0100768893/)
